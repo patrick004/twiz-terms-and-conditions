@@ -31,7 +31,7 @@ Access to Twiz requires:
 
 - Creating a user account via email, phone number, or third-party login (Google, Apple, etc.)  
 - Being at least **16 years old** (or the legal minimum age in your country)  
-- Accepting Twiz’s [Privacy Policy](https://github.com/TwizApp/PrivacyPolicy)  
+- Accepting Twiz’s Privacy Policy 
 
 Each user is responsible for maintaining the confidentiality of their login credentials and for all activities performed through their account.
 
@@ -60,7 +60,7 @@ Users acknowledge that:
 ---
 
 ## 6. Personal Data
-Using Twiz involves the collection and processing of certain personal data in accordance with our [Privacy Policy](https://github.com/TwizApp/PrivacyPolicy).  
+Using Twiz involves the collection and processing of certain personal data in accordance with our Privacy Policy.  
 Twiz is committed to protecting user privacy and will never sell personal information to third parties.
 
 ---
@@ -107,7 +107,7 @@ In the event of a dispute, jurisdiction will be assigned to the competent courts
 
 ## 12. Contact
 For any questions regarding these Terms, please contact us at:  
-📩 **coul.anges@gmail.com**
+📩 **twiz.support@arvilous.com**
 
 ---
 
